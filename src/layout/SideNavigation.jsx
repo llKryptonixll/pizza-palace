@@ -28,17 +28,17 @@ const SideNavigation = ({isOpen, setIsOpen}) => {
                 <ul className='flex space-x-4 self-end pb-4'>
                     <li>
                         <a aria-label='our-facebook-page' href="#">
-                            <img src="/public/icons/facebook.webp" alt="facebook-icon"/>
+                            <img src="/icons/facebook.webp" alt="facebook-icon"/>
                         </a>
                     </li>
                     <li>
                         <a aria-label='our-instagram-page' href="#">
-                            <img src="/public/icons/instagram.webp" alt="instagram-icon"/>
+                            <img src="/icons/instagram.webp" alt="instagram-icon"/>
                         </a>
                     </li>
                     <li>
                         <a aria-label='our-twitter-page' href="#">
-                            <img src="/public/icons/twitter.webp" alt="twitter-icon"/>
+                            <img src="/icons/twitter.webp" alt="twitter-icon"/>
                         </a>
                     </li>
                 </ul>
