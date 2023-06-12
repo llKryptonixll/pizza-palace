@@ -24,7 +24,7 @@ const ContactForm = () => {
         emailInputError();
         messageInputError();
 
-        if(name === "" || email === "" || name.match(/[0-9]+/) || !email.match(/[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}/)){
+        if(name === "" || email === "" || message === "" || name.match(/[0-9]+/) || !email.match(/[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}/)){
 
         }
         else{
