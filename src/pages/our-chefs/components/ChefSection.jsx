@@ -24,7 +24,7 @@ const ChefSection = () => {
         <div className='grid w-full xl:justify-items-center content-center gap-4'>
             <p className='text-3xl sm:w-[400px] font-bold text-softDark'>Chef</p>
             <div>
-                <img className='sm:w-[400px] w-full sm:h-[500px] h-[400px] rounded-xl' src="/public/images/chef.webp" alt="marco-rossie-pizza-palace-owner" />
+                <img className='sm:w-[400px] w-full sm:h-[500px] h-[400px] rounded-xl' src="/images/chef.webp" alt="marco-rossie-pizza-palace-owner" />
             </div>
             <div className='grid xl:justify-items-center xl:text-center'>
                 <p className='text-lightGray text-xs tracking-widest'>MASTER CHEF</p>

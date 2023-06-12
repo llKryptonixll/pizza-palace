@@ -4,49 +4,49 @@
         "id": 1,
         "name": "Pizza Pepperoni",
         "price": 14.9,
-        "image": "/public/images/pizza-pepperoni.webp"
+        "image": "/images/pizza-pepperoni.webp"
       },
       {
         "id": 2,
         "name": "Pizza Hawaiian",
         "price": 11.9,
-        "image": "/public/images/pizza-hawaiian.webp"
+        "image": "/images/pizza-hawaiian.webp"
       },
       {
         "id": 3,
         "name": "Pizza Mexican",
         "price": 13.9,
-        "image": "/public/images/pizza-mexican.webp"
+        "image": "/images/pizza-mexican.webp"
       },
       {
         "id": 4,
         "name": "Pizza Funghi",
         "price": 10.9,
-        "image": "/public/images/pizza-funghi.webp"
+        "image": "/images/pizza-funghi.webp"
       },
       {
         "id": 5,
         "name": "Pizza Parma",
         "price": 17.9,
-        "image": "/public/images/pizza-parma.webp"
+        "image": "/images/pizza-parma.webp"
       },
       {
         "id": 6,
         "name": "Pizza Special",
         "price": 17.9,
-        "image": "/public/images/pizza-special.webp"
+        "image": "/images/pizza-special.webp"
       },
       {
         "id": 7,
         "name": "Pizza Veggie",
         "price": 15.9,
-        "image": "/public/images/pizza-veggie.webp"
+        "image": "/images/pizza-veggie.webp"
       },
       {
         "id": 8,
         "name": "Pizza Veggie 2",
         "price": 15.9,
-        "image": "/public/images/pizza-veggie2.webp"
+        "image": "/images/pizza-veggie2.webp"
       }
     ], 
 
@@ -55,19 +55,19 @@
         "id": 1,
         "name": "Italian Chopped Salad",
         "price": 8.9,
-        "image": "/public/images/italian-chopped-salad.webp"
+        "image": "/images/italian-chopped-salad.webp"
       },
       {
         "id": 2,
         "name": "Italian Pasta Salad",
         "price": 12.9,
-        "image": "/public/images/italian-pasta-salad.webp"
+        "image": "/images/italian-pasta-salad.webp"
       },
       {
         "id": 3,
         "name": "Insalata Caprese",
         "price": 13.9,
-        "image": "/public/images/insalata-caprese.webp"
+        "image": "/images/insalata-caprese.webp"
       }
     ],
 
@@ -76,31 +76,31 @@
         "id": 1,
         "name": "Spaghetti Carbonara",
         "price": 14.9,
-        "image": "/public/images/Spaghetti-Carbonara.webp"
+        "image": "/images/Spaghetti-Carbonara.webp"
       },
       {
         "id": 2,
         "name": "Spaghetti Bolognese",
         "price": 16.9,
-        "image": "/public/images/spaghetti-bolognese.webp"
+        "image": "/images/spaghetti-bolognese.webp"
       },
       {
         "id": 3,
         "name": "Tagliatelle Genovese",
         "price": 19.9,
-        "image": "/public/images/tagliatelle-genovese.webp"
+        "image": "/images/tagliatelle-genovese.webp"
       },
       {
         "id": 4,
         "name": "Pasta Conchiglia",
         "price": 22.9,
-        "image": "/public/images/pasta-conchiglia.webp"
+        "image": "/images/pasta-conchiglia.webp"
       },
       {
         "id": 5,
         "name": "Lasagna",
         "price": 17.9,
-        "image": "/public/images/lasagna.webp"
+        "image": "/images/lasagna.webp"
       }
     ],
 
@@ -109,37 +109,37 @@
         "id": 1,
         "name": "Garlic Shrimps",
         "price": 19.9,
-        "image": "/public/images/Garlic-shrimp.webp"
+        "image": "/images/Garlic-shrimp.webp"
       },
       {
         "id": 2,
         "name": "Grilled Salmon",
         "price": 16.9,
-        "image": "/public/images/grilled-salmon.webp"
+        "image": "/images/grilled-salmon.webp"
       },
       {
         "id": 3,
         "name": "Grilled Sea-Bream",
         "price": 20.9,
-        "image": "/public/images/grilled-sea-bream.webp"
+        "image": "/images/grilled-sea-bream.webp"
       },
       {
         "id": 4,
         "name": "Soup de Mere",
         "price": 12.9,
-        "image": "/public/images/soup-de-mere.webp"
+        "image": "/images/soup-de-mere.webp"
       },
       {
         "id": 5,
         "name": "Tuna Steak",
         "price": 24.9,
-        "image": "/public/images/tuna-steak.webp"
+        "image": "/images/tuna-steak.webp"
       },
       {
         "id": 6,
         "name": "Baked Pangasius",
         "price": 14.9,
-        "image": "/public/images/Baked-Pangasius.webp"
+        "image": "/images/Baked-Pangasius.webp"
       }
     ],
 
@@ -147,35 +147,35 @@
       {
         "id": 1,
         "name": "Jacques Dubois",
-        "img": "/public/images/cook1.webp",
+        "img": "/images/cook1.webp",
         "workPosition": "Pasta Cook",
         "description": "Jacques Dubois, our masterful Pasta Cook, crafts exquisite pasta dishes that transport you to the heart of Italy. His dedication and love for pasta truly elevate our men"
       },
       {
         "id": 2,
         "name": "Giuseppe Russo",
-        "img": "/public/images/cook2.webp",
+        "img": "/images/cook2.webp",
         "workPosition": "Pizza Chef",
         "description": "Giuseppe Russo, our skilled Pizza Chef, brings a true taste of Italy to every pizza he creates. He expertly stretches dough, adds flavorful toppings and bakes to perfection."
       },
       {
         "id": 3,
         "name": "Alejandro Martinez",
-        "img": "/public/images/cook3.webp",
+        "img": "/images/cook3.webp",
         "workPosition": "Salad Prep",
         "description": "Alejandro Martinez, our meticulous Salad Prep expert, is the one responsible for creating fresh and vibrant salads. With an eye for quality produce and an artful arrangement."
       },
       {
         "id": 4,
         "name": "Luca Costa",
-        "img": "/public/images/cook4.webp",
+        "img": "/images/cook4.webp",
         "workPosition": "Line Cook",
         "description": "Luca Costa, our dedicated Line Cook, works tirelessly to ensure efficient kitchen operations. His teamwork and reliability make him an integral part of our culinary team."
       },
       {
         "id": 5,
         "name": "Sofia Bianchi",
-        "img": "/public/images/cook5.webp",
+        "img": "/images/cook5.webp",
         "workPosition": "Sous Chef",
         "description": "Sofia Bianchi, our talented Sous Chef, is the backbone of our kitchen. With precision, she ensures that every dish meets our high standards.",
         "attributionLink": "https://www.freepik.com/free-photo/female-chef-kitchen-dressed-apron-uniform_32201650.htm#query=chef&position=34&from_view=keyword&track=sph"
@@ -183,7 +183,7 @@
       {
         "id": 6,
         "name": "Matteo Romano",
-        "img": "/public/images/cook6.webp",
+        "img": "/images/cook6.webp",
         "workPosition": "Expeditor",
         "description": "Matteo Romano, our efficient Expeditor, connects the kitchen and the front of the house. With excellent skills, he ensures that every dish is properly plated and garnished.",
         "attributionLink": "https://www.freepik.com/free-photo/smiling-male-chef-chopping-vegetables_2675984.htm"
@@ -191,7 +191,7 @@
       {
         "id": 7,
         "name": "Andrei Popov",
-        "img": "/public/images/cook7.webp",
+        "img": "/images/cook7.webp",
         "workPosition": "Pastry Chef",
         "description": "Andrei Popov, our passionate Pastry Chef, creates divine doughs for our pizza. With a delicate touch, he transforms simple ingredients into an amazing dough.",
         "attributionLink": "https://www.freepik.com/free-photo/baker-standing-table-with-variety-baked-breads_2976585.htm#page=3&query=chef&position=1&from_view=keyword&track=sph"
@@ -199,7 +199,7 @@
       {
         "id": 8,
         "name": "Paul Brown",
-        "img": "/public/images/cook8.webp",
+        "img": "/images/cook8.webp",
         "workPosition": "Kitchen Porter",
         "description": "Paul Brown, Kitchen Porter, keeps our kitchen running smoothly behind the scenes. From washing dishes to maintaining cleanliness, he keeps the kitchen clean.",
         "attributionLink": "https://www.freepik.com/free-photo/chef-with-uniform-utensil-kitchen_4374191.htm#query=kitchen%20porter&position=0&from_view=search&track=ais"

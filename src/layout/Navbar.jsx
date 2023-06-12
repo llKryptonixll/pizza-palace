@@ -25,7 +25,7 @@ const Navbar = ({setIsOpen}) => {
     <header className='font-lexend'>
       <nav className={`flex justify-between fixed lg:pl-[70px] pl-[20px] lg:pr-[70px] z-30 pr-[20px] left-0 w-full text-softWhite items-center duration-500 ${reachedTop === true ? "sm:top-[80px] top-[120px]" : "sm:top-0 top-0 bg-dark h-[100px]"}`}>
         <h1 aria-label='Pizza Palace'>
-          <img className='sm:w-auto w-[220px]' src="/public/images/logo.webp" alt="company-logo" />
+          <img className='sm:w-auto w-[220px]' src="/images/logo.webp" alt="company-logo" />
         </h1>
         <ul className='md:flex hidden space-x-4'>
           <li className={`${linkHoverStyle} ${getClassName('/')}`}>

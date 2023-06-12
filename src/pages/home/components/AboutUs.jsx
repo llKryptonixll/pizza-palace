@@ -32,7 +32,7 @@ const AboutUs = () => {
     return (
         <section className='grid lg:grid-cols-2 lg:gap-0 gap-12 place-items-center pt-[50px]'>
             <motion.figure {...framerMotionSpanBottom} className='relative'>
-                <img className='object-cover w-full h-auto' src="/public/images/about_us_illustration.webp" alt="About Us Illustration" />
+                <img className='object-cover w-full h-auto' src="/images/about_us_illustration.webp" alt="About Us Illustration" />
             </motion.figure>
             <article className='text-center grid gap-4 lg:pr-[70px] lg:pl-0 pl-[20px] pr-[20px]'>
                 <div className='grid gap-2 font-accent text-2xl'>

@@ -49,19 +49,19 @@ const FoodGrid = () => {
       <nav className="md:space-x-4 min-h-[100px] md:flex grid sm:grid-cols-3 grid-cols-2 justify-items-center gap-4 pt-4 pb-4 items-center md:pl-8">
         <button autoFocus className={buttonStyles} onClick={() => switchTab("pizza")}>
           <span>Pizza</span>
-          <img src="/public/icons/pizza2.webp" alt="pizza-icon" />
+          <img src="/icons/pizza2.webp" alt="pizza-icon" />
         </button>
         <button className={buttonStyles} onClick={() => switchTab("salad")}>
           <span>Salad</span>
-          <img src="/public/icons/salad.webp" alt="salad-icon" />
+          <img src="/icons/salad.webp" alt="salad-icon" />
         </button>
         <button className={buttonStyles} onClick={() => switchTab("pasta")}>
           <span>Pasta</span>
-          <img src="/public/icons/pasta.webp" alt="pasta-icon" />
+          <img src="/icons/pasta.webp" alt="pasta-icon" />
         </button>
         <button className={buttonStyles} onClick={() => switchTab("fish")}>
           <span>Fish</span>
-          <img src="/public/icons/fish.webp" alt="fish-icon" />
+          <img src="/icons/fish.webp" alt="fish-icon" />
         </button>
       </nav>
 

@@ -11,7 +11,7 @@ const Menus = ({isOpenEffect}) => {
   return (
     <main className={isOpenEffect}>
       <HeadBanner 
-        image={"/public/images/pizza-menu-banner.webp"}
+        image={"/images/pizza-menu-banner.webp"}
         textTop={"Check out"}
         textBottom={"OUR MENUS"}
       />

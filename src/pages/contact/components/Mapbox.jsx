@@ -30,7 +30,7 @@ const Mapbox = () => {
                 mapStyle="mapbox://styles/kryptonix/clinuua5o000201qr55cn5tod"
             >
                 <Marker longitude={lng} latitude={lat}>
-                    <img src="public/images/pizzeria-mapbox.webp" alt="our-location" />
+                    <img src="/images/pizzeria-mapbox.webp" alt="our-location" />
                 </Marker>
                 <NavigationControl position="bottom-right" />
                 <FullscreenControl />

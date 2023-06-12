@@ -6,16 +6,16 @@ const Footer = ({isOpenEffect}) => {
         <footer className={`${isOpenEffect} font-lexend bg-softDark lg:h-[450px] sm:h-[600px] h-[900px] grid items-center sm:grid-rows-[85%_15%] grid-rows-[90%_10%] text-softWhite mt-32`}>
             <div className='lg:flex grid gap-16 sm:space-x-16 items-center justify-center'>
                 <div className='grid gap-10 justify-center'>
-                    <img src="/public/images/logo.webp" alt="" />
+                    <img src="/images/logo.webp" alt="company-logo" />
                     <div className='flex justify-center space-x-4'>
                         <a aria-label='our-facebook-page' href="#">
-                            <img src="/public/icons/facebook.webp" alt="facebook-icon"/>
+                            <img src="/icons/facebook.webp" alt="facebook-icon"/>
                         </a>
                         <a aria-label='our-instagram-page' href="#">
-                            <img src="/public/icons/instagram.webp" alt="instagram-icon"/>
+                            <img src="/icons/instagram.webp" alt="instagram-icon"/>
                         </a>
                         <a aria-label='our-twitter-page' href="#">
-                            <img src="/public/icons/twitter.webp" alt="twitter-icon"/>
+                            <img src="/icons/twitter.webp" alt="twitter-icon"/>
                         </a>
                     </div>
                 </div>

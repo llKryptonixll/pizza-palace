@@ -11,7 +11,7 @@ const OurChefs = ({ isOpenEffect }) => {
   return (
     <main className={`font-lexend ${isOpenEffect}`}>
       <HeadBanner 
-        image={"/public/images/our-chefs-banner.webp"}
+        image={"/images/our-chefs-banner.webp"}
         textTop={"Meet"}
         textBottom={"OUR CHEFS"}
       />

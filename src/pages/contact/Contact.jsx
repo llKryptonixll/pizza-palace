@@ -11,7 +11,7 @@ const Contact = ({ isOpenEffect }) => {
   return (
     <main className={isOpenEffect}>
       <HeadBanner 
-        image={"public/images/pizza-contact-banner.webp"}
+        image={"/images/pizza-contact-banner.webp"}
         textTop={"Get in"}
         textBottom={"Contact"}
       />

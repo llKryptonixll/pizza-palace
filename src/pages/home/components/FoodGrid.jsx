@@ -34,56 +34,56 @@ const FoodGrid = () => {
 
       <div className='grid xl:grid-cols-4 gap-4 justify-items-center lg:grid-cols-3 sm:grid-cols-2 grid-cols-1 lg:pl-[70px] pl-[20px] lg:pr-[70px] pr-[20px] lg:pt-[70px] pt-[20px]'>
         <div className={containerStyles}>
-          <img className={foodImgStyles} src="/public/images/pizza-pepperoni.webp" alt="pizza-pepperoni"/>
+          <img className={foodImgStyles} src="/images/pizza-pepperoni.webp" alt="pizza-pepperoni"/>
           <p className={pizzaTextStyles}>
             <span className={pizzaNameStyles}>Pizza Pepperoni</span>
             <span className={pizzaPriceStyles}>$14.9</span>
           </p>
         </div>
         <div className={containerStyles}>
-          <img className={foodImgStyles} src="/public/images/pizza-hawaiian.webp" alt="pizza-hawaiian"/>
+          <img className={foodImgStyles} src="/images/pizza-hawaiian.webp" alt="pizza-hawaiian"/>
           <p className={pizzaTextStyles}>
             <span className={pizzaNameStyles}>Pizza Hawaiian</span>
             <span className={pizzaPriceStyles}>$11.9</span>
           </p>
         </div>
         <div className={containerStyles}>
-          <img className={foodImgStyles} src="/public/images/pizza-mexican.webp" alt="pizza-mexican"/>
+          <img className={foodImgStyles} src="/images/pizza-mexican.webp" alt="pizza-mexican"/>
           <p className={pizzaTextStyles}>
             <span className={pizzaNameStyles}>Pizza Mexican</span>
             <span className={pizzaPriceStyles}>$13.9</span>
           </p>
         </div>
         <div className={containerStyles}>
-          <img className={foodImgStyles} src="/public/images/pizza-funghi.webp" alt="pizza-funghi"/>
+          <img className={foodImgStyles} src="/images/pizza-funghi.webp" alt="pizza-funghi"/>
           <p className={pizzaTextStyles}>
             <span className={pizzaNameStyles}>Pizza Funghi</span>
             <span className={pizzaPriceStyles}>$10.9</span>
           </p>
         </div>
         <div className={containerStyles}>
-          <img className={foodImgStyles} src="/public/images/pizza-parma.webp" alt="pizza-parma"/>
+          <img className={foodImgStyles} src="/images/pizza-parma.webp" alt="pizza-parma"/>
           <p className={pizzaTextStyles}>
             <span className={pizzaNameStyles}>Pizza Parma</span>
             <span className={pizzaPriceStyles}>$17.9</span>
           </p>
         </div>
         <div className={containerStyles}>
-          <img className={foodImgStyles} src="/public/images/pizza-special.webp" alt="pizza-special"/>
+          <img className={foodImgStyles} src="/images/pizza-special.webp" alt="pizza-special"/>
           <p className={pizzaTextStyles}>
             <span className={pizzaNameStyles}>Pizza Special</span>
             <span className={pizzaPriceStyles}>$17.9</span>
           </p>
         </div>
         <div className={containerStyles}>
-          <img className={foodImgStyles} src="/public/images/pizza-veggie.webp" alt="pizza-veggie"/>
+          <img className={foodImgStyles} src="/images/pizza-veggie.webp" alt="pizza-veggie"/>
           <p className={pizzaTextStyles}>
             <span className={pizzaNameStyles}>Pizza Veggie</span>
             <span className={pizzaPriceStyles}>$15.9</span>
           </p>
         </div>
         <div className={containerStyles}>
-          <img className={foodImgStyles} src="/public/images/pizza-veggie2.webp" alt="pizza-veggie2"/>
+          <img className={foodImgStyles} src="/images/pizza-veggie2.webp" alt="pizza-veggie2"/>
           <p className={pizzaTextStyles}>
             <span className={pizzaNameStyles}>Pizza Veggie 2</span>
             <span className={pizzaPriceStyles}>$15.9</span>

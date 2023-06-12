@@ -34,7 +34,7 @@ const VisitBanner = () => {
             <span className='font-accent text-accent text-5xl'>Visit Our</span>
             <span className='font-bold text-dark text-4xl'>RESTAURANT</span>
           </p>
-          <img src="/public/icons/salami-pizza.webp" alt="pizza-icon" />
+          <img src="/icons/salami-pizza.webp" alt="pizza-icon" />
           <p className='text-dark'>
             Come savor our handcrafted pizza in a cozy atmosphere. 
             We can't wait to welcome you and serve you the best pizza in town.
